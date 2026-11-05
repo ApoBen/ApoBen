@@ -23,7 +23,7 @@ Third-year Electrical & Electronics Engineering student at Konya Technical Unive
 
 ### Experience
 
-**R&D Intern — Omarge** · July 2026
+**R&D Intern — Omarge** · July 2026<br>
 ESP32-S3 based IoT smart lighting system: firmware in C/C++, MQTT broker setup, OTA update infrastructure, device discovery over mDNS/UDP and end-to-end integration testing.
 
 ### Selected Projects
